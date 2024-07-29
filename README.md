@@ -1,4 +1,4 @@
-### Sou uma estudante de Sistemas de Informação 👋
+### Bacharela em Sistemas de Informação 👋
 
 <!--
 **rafaela-moura/rafaela-moura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
